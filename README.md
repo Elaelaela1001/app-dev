@@ -29,4 +29,4 @@ You can read more about the series on [Wizarding World’s official site](https:
 
 ---
 
-*Created with love for my GitHub pull request activity.*
+*By Lynard Roxanne N. Ela.*
