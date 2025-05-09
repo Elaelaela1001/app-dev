@@ -1,31 +1,31 @@
 # app-dev
 My first repository 
-# My Favorite Series: **Stranger Things**
+# My Favorite Series: **Harry Potter**
 
-**Stranger Things** is a science fiction and horror series created by the Duffer Brothers. It’s one of the most thrilling and nostalgic shows I’ve ever watched!
+**Harry Potter** is a fantasy series written by J.K. Rowling. It follows the journey of a young wizard, Harry, as he discovers his magical heritage and battles the dark wizard Voldemort.
 
 ## Why I Love It
 
-- **Great storytelling** with suspense and mystery  
-- *Amazing characters* with deep development  
-- A mix of **sci-fi, horror, and 80s nostalgia**  
-- Incredible soundtrack and special effects  
+- **Magical world-building** that feels real  
+- *Inspiring friendships* and loyalty  
+- Themes of **courage, sacrifice, and love**  
+- A story that grows darker and deeper over time  
 
 ## Main Characters
 
-1. Eleven  
-2. Mike Wheeler  
-3. Will Byers  
-4. Dustin Henderson  
-5. Lucas Sinclair  
+1. Harry Potter  
+2. Hermione Granger  
+3. Ron Weasley  
+4. Albus Dumbledore  
+5. Lord Voldemort  
 
 ## Favorite Quote
 
-> “Friends don’t lie.” — Eleven
+> “Happiness can be found even in the darkest of times, if one only remembers to turn on the light.” — Albus Dumbledore
 
 ## Learn More
 
-You can find more about the series on [Netflix's official page](https://www.netflix.com/title/80057281).
+You can read more about the series on [Wizarding World’s official site](https://www.wizardingworld.com/).
 
 ---
 
