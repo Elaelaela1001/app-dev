@@ -29,4 +29,4 @@ You can read more about the series on [Wizarding World’s official site](https:
 
 ---
 
-*By Lynard Roxanne N. Ela.*
+*By Lynard Roxanne N. Ela*
